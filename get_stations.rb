@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 require 'nokogiri'
-require 'yaml'
+require 'json'
 require 'rest-client'
 require 'retryable'
 require 'enumerable/lazy'
@@ -36,7 +36,7 @@ module Rodalies
             lat, lon = match.captures.map(&:to_f)
             $stderr.puts [line, station_id, station_name, lat, lon].inspect
             
-            {line: line, gencat_id: station_id, name: station_name, lat: lat, lon: lon}.stringify_keys
+            {line: line, gencat_id: station_id, name: station_name, lat: lat, lon: lon}
           end
         end
       end
@@ -50,5 +50,6 @@ end
 
 if __FILE__ == $0
   downloader = Rodalies::LinesDownloader.new
-  File.write("stations.yaml", YAML::dump(downloader.stations.to_a))
+  json = JSON.pretty_generate(downloader.stations.to_a)
+  File.write("stations.json", json)
 end

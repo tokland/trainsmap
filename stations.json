@@ -1,0 +1,2410 @@
+[
+  {
+    "line": "R1",
+    "gencat_id": 79600,
+    "name": "Arenys de Mar",
+    "lat": 41.5773814564398,
+    "lon": 2.54931724524282
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79404,
+    "name": "Badalona",
+    "lat": 41.4455716188953,
+    "lon": 2.24884064804042
+  },
+  {
+    "line": "R1",
+    "gencat_id": 78804,
+    "name": "Barcelona-Arc de Triomf",
+    "lat": 41.3916756596852,
+    "lon": 2.18025975992386
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79009,
+    "name": "Barcelona-El Clot-Aragó",
+    "lat": 41.4104189272174,
+    "lon": 2.18920138224746
+  },
+  {
+    "line": "R1",
+    "gencat_id": 78805,
+    "name": "Barcelona-Plaça de Catalunya",
+    "lat": 41.3874900044692,
+    "lon": 2.16960499794846
+  },
+  {
+    "line": "R1",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79606,
+    "name": "Blanes",
+    "lat": 41.6735342002693,
+    "lon": 2.7690496193202
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79412,
+    "name": "Cabrera de Mar-Vilassar de Mar",
+    "lat": 41.5068927189113,
+    "lon": 2.40178997286725
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79502,
+    "name": "Caldes d'Estrac",
+    "lat": 41.5685858175612,
+    "lon": 2.5260652781153
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79603,
+    "name": "Calella",
+    "lat": 41.6146346759072,
+    "lon": 2.66605267966984
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79601,
+    "name": "Canet de Mar",
+    "lat": 41.5862981509349,
+    "lon": 2.58050205524244
+  },
+  {
+    "line": "R1",
+    "gencat_id": 72303,
+    "name": "Cornellà",
+    "lat": 41.3575730525019,
+    "lon": 2.0706809131878
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79407,
+    "name": "El Masnou",
+    "lat": 41.4768427803983,
+    "lon": 2.3099990195256
+  },
+  {
+    "line": "R1",
+    "gencat_id": 72305,
+    "name": "L'Hospitalet de Llobregat",
+    "lat": 41.3641637913141,
+    "lon": 2.10109308019692
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79200,
+    "name": "Maçanet-Massanes",
+    "lat": 41.7724990136366,
+    "lon": 2.67336035783649
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79605,
+    "name": "Malgrat de Mar",
+    "lat": 41.6416031868143,
+    "lon": 2.7413807610443
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79500,
+    "name": "Mataró",
+    "lat": 41.5329839540651,
+    "lon": 2.44525100021829
+  },
+  {
+    "line": "R1",
+    "gencat_id": 72300,
+    "name": "Molins de Rei",
+    "lat": 41.4097927352311,
+    "lon": 2.0211437109936
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79405,
+    "name": "Montgat",
+    "lat": 41.4627650088159,
+    "lon": 2.27189301238515
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79406,
+    "name": "Montgat Nord",
+    "lat": 41.4687846270618,
+    "lon": 2.28689088199757
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79408,
+    "name": "Ocata",
+    "lat": 41.478885785846,
+    "lon": 2.31909666740158
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79604,
+    "name": "Pineda de Mar",
+    "lat": 41.6224782675301,
+    "lon": 2.69406436583196
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79409,
+    "name": "Premià de Mar",
+    "lat": 41.4874688718294,
+    "lon": 2.35435264772193
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79403,
+    "name": "Sant Adrià del Besòs",
+    "lat": 41.4241213971941,
+    "lon": 2.2303327979395
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79501,
+    "name": "Sant Andreu de Llavaneres",
+    "lat": 41.5553519451487,
+    "lon": 2.49821544222003
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79608,
+    "name": "Santa Susanna",
+    "lat": 41.6302109665855,
+    "lon": 2.7166455546602
+  },
+  {
+    "line": "R1",
+    "gencat_id": 72301,
+    "name": "Sant Feliu de Llobregat",
+    "lat": 41.383041211783,
+    "lon": 2.04808089444088
+  },
+  {
+    "line": "R1",
+    "gencat_id": 72302,
+    "name": "Sant Joan Despí",
+    "lat": 41.3686049379763,
+    "lon": 2.06035905784607
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79602,
+    "name": "Sant Pol de Mar",
+    "lat": 41.6014769329979,
+    "lon": 2.62408708381096
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79607,
+    "name": "Tordera",
+    "lat": 41.7070305154983,
+    "lon": 2.71944036373631
+  },
+  {
+    "line": "R1",
+    "gencat_id": 79410,
+    "name": "Vilassar de Mar",
+    "lat": 41.5005305277776,
+    "lon": 2.38985753761095
+  },
+  {
+    "line": "R2",
+    "gencat_id": 79009,
+    "name": "Barcelona-El Clot-Aragó",
+    "lat": 41.4104189272174,
+    "lon": 2.18920138224746
+  },
+  {
+    "line": "R2",
+    "gencat_id": 71802,
+    "name": "Barcelona-Passeig de Gràcia",
+    "lat": 41.3935212963419,
+    "lon": 2.16631624197984
+  },
+  {
+    "line": "R2",
+    "gencat_id": 79004,
+    "name": "Barcelona-Sant Andreu Comtal",
+    "lat": 41.4356336089679,
+    "lon": 2.19371257730036
+  },
+  {
+    "line": "R2",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R2",
+    "gencat_id": 71708,
+    "name": "Bellvitge",
+    "lat": 41.3538317321834,
+    "lon": 2.11537383047956
+  },
+  {
+    "line": "R2",
+    "gencat_id": 71705,
+    "name": "Castelldefels",
+    "lat": 41.2787348008295,
+    "lon": 1.97929772549262
+  },
+  {
+    "line": "R2",
+    "gencat_id": 71707,
+    "name": "El Prat de Llobregat",
+    "lat": 41.3312044968392,
+    "lon": 2.09102621935777
+  },
+  {
+    "line": "R2",
+    "gencat_id": 71706,
+    "name": "Gavà",
+    "lat": 41.3030397336087,
+    "lon": 2.0102813744918
+  },
+  {
+    "line": "R2",
+    "gencat_id": 79100,
+    "name": "Granollers Centre",
+    "lat": 41.5995096478962,
+    "lon": 2.29159208126183
+  },
+  {
+    "line": "R2",
+    "gencat_id": 79011,
+    "name": "La Llagosta",
+    "lat": 41.5105097453881,
+    "lon": 2.19991794690889
+  },
+  {
+    "line": "R2",
+    "gencat_id": 79006,
+    "name": "Mollet-Sant Fost",
+    "lat": 41.5329529425385,
+    "lon": 2.21736712534934
+  },
+  {
+    "line": "R2",
+    "gencat_id": 79005,
+    "name": "Montcada i Reixac",
+    "lat": 41.4840805752139,
+    "lon": 2.18826577891092
+  },
+  {
+    "line": "R2",
+    "gencat_id": 79007,
+    "name": "Montmeló",
+    "lat": 41.551149,
+    "lon": 2.250041
+  },
+  {
+    "line": "R2",
+    "gencat_id": 71709,
+    "name": "Viladecans",
+    "lat": 41.309325489716,
+    "lon": 2.02745481244271
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 72400,
+    "name": "Aeroport",
+    "lat": 41.3040527489309,
+    "lon": 2.07272042328131
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79009,
+    "name": "Barcelona-El Clot-Aragó",
+    "lat": 41.4104189272174,
+    "lon": 2.18920138224746
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 71802,
+    "name": "Barcelona-Passeig de Gràcia",
+    "lat": 41.3935212963419,
+    "lon": 2.16631624197984
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79004,
+    "name": "Barcelona-Sant Andreu Comtal",
+    "lat": 41.4356336089679,
+    "lon": 2.19371257730036
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 71708,
+    "name": "Bellvitge",
+    "lat": 41.3538317321834,
+    "lon": 2.11537383047956
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79101,
+    "name": "Cardedeu",
+    "lat": 41.6365329513409,
+    "lon": 2.35603785841466
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 71707,
+    "name": "El Prat de Llobregat",
+    "lat": 41.3312044968392,
+    "lon": 2.09102621935777
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79100,
+    "name": "Granollers Centre",
+    "lat": 41.5995096478962,
+    "lon": 2.29159208126183
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79105,
+    "name": "Gualba",
+    "lat": 41.7180602762477,
+    "lon": 2.53904303823446
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79107,
+    "name": "Hostalric",
+    "lat": 41.7478870701868,
+    "lon": 2.63141010779818
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79011,
+    "name": "La Llagosta",
+    "lat": 41.5105097453881,
+    "lon": 2.19991794690889
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79109,
+    "name": "Les Franqueses-Granollers Nord",
+    "lat": 41.6176578949707,
+    "lon": 2.2944972737249
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79102,
+    "name": "Llinars del Vallès",
+    "lat": 41.6380237957566,
+    "lon": 2.40477882035807
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79200,
+    "name": "Maçanet-Massanes",
+    "lat": 41.7724990136366,
+    "lon": 2.67336035783649
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79006,
+    "name": "Mollet-Sant Fost",
+    "lat": 41.5329529425385,
+    "lon": 2.21736712534934
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79005,
+    "name": "Montcada i Reixac",
+    "lat": 41.4840805752139,
+    "lon": 2.18826577891092
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79007,
+    "name": "Montmeló",
+    "lat": 41.551149,
+    "lon": 2.250041
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79103,
+    "name": "Palautordera",
+    "lat": 41.6717765351162,
+    "lon": 2.45417192181694
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79106,
+    "name": "Riells i Viabrea-Breda",
+    "lat": 41.7263725991584,
+    "lon": 2.56816119028686
+  },
+  {
+    "line": "R2Nord",
+    "gencat_id": 79104,
+    "name": "Sant Celoni",
+    "lat": 41.6860241665012,
+    "lon": 2.49123944361082
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 79400,
+    "name": "Barcelona-Estació de França",
+    "lat": 41.3840101323238,
+    "lon": 2.18634117242266
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71802,
+    "name": "Barcelona-Passeig de Gràcia",
+    "lat": 41.3935212963419,
+    "lon": 2.16631624197984
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71708,
+    "name": "Bellvitge",
+    "lat": 41.3538317321834,
+    "lon": 2.11537383047956
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71601,
+    "name": "Calafell",
+    "lat": 41.1894878480103,
+    "lon": 1.57507609628638
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71705,
+    "name": "Castelldefels",
+    "lat": 41.2787348008295,
+    "lon": 1.97929772549262
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71604,
+    "name": "Cubelles",
+    "lat": 41.2040964615357,
+    "lon": 1.67572028336313
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71603,
+    "name": "Cunit",
+    "lat": 41.1948229103806,
+    "lon": 1.63186678561585
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71707,
+    "name": "El Prat de Llobregat",
+    "lat": 41.3312044968392,
+    "lon": 2.09102621935777
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71703,
+    "name": "Garraf",
+    "lat": 41.2542197362121,
+    "lon": 1.90236184775387
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71706,
+    "name": "Gavà",
+    "lat": 41.3030397336087,
+    "lon": 2.0102813744918
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71704,
+    "name": "Platja de Castelldefels",
+    "lat": 41.2670522569009,
+    "lon": 1.95684451043136
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71600,
+    "name": "Sant Vicenç de Calders",
+    "lat": 41.1861015010197,
+    "lon": 1.52612005997979
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71602,
+    "name": "Segur de Calafell",
+    "lat": 41.1924316246447,
+    "lon": 1.60639616252028
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71701,
+    "name": "Sitges",
+    "lat": 41.2393559475563,
+    "lon": 1.80888494564787
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71709,
+    "name": "Viladecans",
+    "lat": 41.309325489716,
+    "lon": 2.02745481244271
+  },
+  {
+    "line": "R2Sud",
+    "gencat_id": 71700,
+    "name": "Vilanova i la Geltrú",
+    "lat": 41.2201162907788,
+    "lon": 1.73234718648716
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77106,
+    "name": "Balenyà-Els Hostalets",
+    "lat": 41.8148170582234,
+    "lon": 2.23339014194397
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77107,
+    "name": "Balenyà-Tona-Seva",
+    "lat": 41.8421184199709,
+    "lon": 2.2474935709826
+  },
+  {
+    "line": "R3",
+    "gencat_id": 78804,
+    "name": "Barcelona-Arc de Triomf",
+    "lat": 41.3916756596852,
+    "lon": 2.18025975992386
+  },
+  {
+    "line": "R3",
+    "gencat_id": 78806,
+    "name": "Barcelona-La Sagrera-Meridiana",
+    "lat": 41.4218764777707,
+    "lon": 2.18687911994551
+  },
+  {
+    "line": "R3",
+    "gencat_id": 78805,
+    "name": "Barcelona-Plaça de Catalunya",
+    "lat": 41.3874900044692,
+    "lon": 2.16960499794846
+  },
+  {
+    "line": "R3",
+    "gencat_id": 78802,
+    "name": "Barcelona-Sant Andreu Arenal",
+    "lat": 41.4309957777596,
+    "lon": 2.18310346998386
+  },
+  {
+    "line": "R3",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R3",
+    "gencat_id": 78801,
+    "name": "Barcelona-Torre del Baró",
+    "lat": 41.4613256531941,
+    "lon": 2.1807617655833
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77112,
+    "name": "Borgonyà",
+    "lat": 42.0647219843024,
+    "lon": 2.24196941761686
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77301,
+    "name": "Campdevànol",
+    "lat": 42.2216328007093,
+    "lon": 2.16562908575014
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77105,
+    "name": "Centelles",
+    "lat": 41.7994404521046,
+    "lon": 2.22280911482497
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77103,
+    "name": "Figaró",
+    "lat": 41.7211937870673,
+    "lon": 2.27158481401199
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77006,
+    "name": "Granollers-Canovelles",
+    "lat": 41.6113539711867,
+    "lon": 2.27666652611533
+  },
+  {
+    "line": "R3",
+    "gencat_id": 72305,
+    "name": "L'Hospitalet de Llobregat",
+    "lat": 41.3641637913141,
+    "lon": 2.10109308019692
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77114,
+    "name": "La Farga de Bebié",
+    "lat": 42.1304063690213,
+    "lon": 2.2038618078862
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77102,
+    "name": "La Garriga",
+    "lat": 41.6844791488305,
+    "lon": 2.28864150385132
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77306,
+    "name": "La Molina",
+    "lat": 42.3444599879553,
+    "lon": 1.9559253959717
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77310,
+    "name": "La Tor de Querol-Enveig",
+    "lat": 42.459221,
+    "lon": 1.904142
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77100,
+    "name": "Les Franqueses del Vallès",
+    "lat": 41.6297113626467,
+    "lon": 2.29496558333529
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77110,
+    "name": "Manlleu",
+    "lat": 41.9998584383049,
+    "lon": 2.26910726028801
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77004,
+    "name": "Mollet-Santa Rosa",
+    "lat": 41.5356275524861,
+    "lon": 2.20583997910474
+  },
+  {
+    "line": "R3",
+    "gencat_id": 78800,
+    "name": "Montcada Bifurcació",
+    "lat": 41.4708621070227,
+    "lon": 2.18006161216746
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77002,
+    "name": "Montcada Ripollet",
+    "lat": 41.4960195828269,
+    "lon": 2.1818196836438
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77005,
+    "name": "Parets del Vallès",
+    "lat": 41.5556547910764,
+    "lon": 2.22508203043752
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77304,
+    "name": "Planoles",
+    "lat": 42.3140632961532,
+    "lon": 2.1004568436108
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77309,
+    "name": "Puigcerdà",
+    "lat": 42.4288496380542,
+    "lon": 1.92443423249219
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77303,
+    "name": "Ribes de Freser",
+    "lat": 42.298759530443,
+    "lon": 2.16527014105835
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77200,
+    "name": "Ripoll",
+    "lat": 42.1947952811215,
+    "lon": 2.19678529942235
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77003,
+    "name": "Santa Perpètua de Mogoda",
+    "lat": 41.5217493254478,
+    "lon": 2.19426268997616
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77104,
+    "name": "Sant Martí de Centelles",
+    "lat": 41.7605461640612,
+    "lon": 2.24913709579113
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77113,
+    "name": "Sant Quirze de Besora",
+    "lat": 42.1052696916934,
+    "lon": 2.21727409785912
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77111,
+    "name": "Torelló",
+    "lat": 42.0521358153165,
+    "lon": 2.26012358805207
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77305,
+    "name": "Toses",
+    "lat": 42.3207343370805,
+    "lon": 2.01526977892546
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77307,
+    "name": "Urtx-Alp",
+    "lat": 42.3763517758391,
+    "lon": 1.89683061816954
+  },
+  {
+    "line": "R3",
+    "gencat_id": 77109,
+    "name": "Vic",
+    "lat": 41.9310830744069,
+    "lon": 2.24899944577576
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78705,
+    "name": "Barberà del Vallès",
+    "lat": 41.5135131161479,
+    "lon": 2.11838675826996
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78804,
+    "name": "Barcelona-Arc de Triomf",
+    "lat": 41.3916756596852,
+    "lon": 2.18025975992386
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78806,
+    "name": "Barcelona-La Sagrera-Meridiana",
+    "lat": 41.4218764777707,
+    "lon": 2.18687911994551
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78805,
+    "name": "Barcelona-Plaça de Catalunya",
+    "lat": 41.3874900044692,
+    "lon": 2.16960499794846
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78802,
+    "name": "Barcelona-Sant Andreu Arenal",
+    "lat": 41.4309957777596,
+    "lon": 2.18310346998386
+  },
+  {
+    "line": "R4",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78801,
+    "name": "Barcelona-Torre del Baró",
+    "lat": 41.4613256531941,
+    "lon": 2.1807617655833
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78605,
+    "name": "Castellbell i el Vilar-Monistrol de Mont",
+    "lat": 41.6286350723563,
+    "lon": 1.86907289140329
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72210,
+    "name": "Castellbisbal",
+    "lat": 41.4731321228208,
+    "lon": 1.96778972009184
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78706,
+    "name": "Cerdanyola del Vallès",
+    "lat": 41.4919912716781,
+    "lon": 2.14850057800013
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72303,
+    "name": "Cornellà",
+    "lat": 41.3575730525019,
+    "lon": 2.0706809131878
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72211,
+    "name": "El Papiol",
+    "lat": 41.4353230510212,
+    "lon": 2.00247477795102
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72203,
+    "name": "Els Monjos",
+    "lat": 41.3145934553543,
+    "lon": 1.66019560008192
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72201,
+    "name": "El Vendrell",
+    "lat": 41.2209692474556,
+    "lon": 1.53810356814195
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72208,
+    "name": "Gelida",
+    "lat": 41.4486378855395,
+    "lon": 1.86537644813493
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72202,
+    "name": "L'Arboç",
+    "lat": 41.2739075704007,
+    "lon": 1.60077431008327
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72305,
+    "name": "L'Hospitalet de Llobregat",
+    "lat": 41.3641637913141,
+    "lon": 2.10109308019692
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72205,
+    "name": "La Granada",
+    "lat": 41.3705005020672,
+    "lon": 1.72496778423192
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72206,
+    "name": "Lavern-Subirats",
+    "lat": 41.3956620421709,
+    "lon": 1.76774385725018
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78600,
+    "name": "Manresa",
+    "lat": 41.7203913528877,
+    "lon": 1.82649982630901
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72209,
+    "name": "Martorell",
+    "lat": 41.4792482334481,
+    "lon": 1.92692827822247
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72300,
+    "name": "Molins de Rei",
+    "lat": 41.4097927352311,
+    "lon": 2.0211437109936
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78800,
+    "name": "Montcada Bifurcació",
+    "lat": 41.4708621070227,
+    "lon": 2.18006161216746
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78708,
+    "name": "Montcada i Reixac-Manresa",
+    "lat": 41.4841920488475,
+    "lon": 2.18529792717688
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78707,
+    "name": "Montcada i Reixac-Santa Maria",
+    "lat": 41.481285279819,
+    "lon": 2.16718183538433
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78704,
+    "name": "Sabadell Centre",
+    "lat": 41.5471098666587,
+    "lon": 2.11573586381795
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78709,
+    "name": "Sabadell Nord",
+    "lat": 41.5618368709598,
+    "lon": 2.09658369951976
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78703,
+    "name": "Sabadell Sud",
+    "lat": 41.5282641464543,
+    "lon": 2.10538342500057
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72301,
+    "name": "Sant Feliu de Llobregat",
+    "lat": 41.383041211783,
+    "lon": 2.04808089444088
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72302,
+    "name": "Sant Joan Despí",
+    "lat": 41.3686049379763,
+    "lon": 2.06035905784607
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78610,
+    "name": "Sant Miquel de Gonteres-Viladecavalls",
+    "lat": 41.5639037395734,
+    "lon": 1.9571698337749
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72207,
+    "name": "Sant Sadurní d'Anoia",
+    "lat": 41.4201564592556,
+    "lon": 1.79390253204358
+  },
+  {
+    "line": "R4",
+    "gencat_id": 71600,
+    "name": "Sant Vicenç de Calders",
+    "lat": 41.1861015010197,
+    "lon": 1.52612005997979
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78604,
+    "name": "Sant Vicenç de Castellet",
+    "lat": 41.6687916066728,
+    "lon": 1.86248335307058
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78700,
+    "name": "Terrassa",
+    "lat": 41.5698054594888,
+    "lon": 2.01429880494687
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78710,
+    "name": "Terrassa Est",
+    "lat": 41.5674161441055,
+    "lon": 2.0403445786003
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78606,
+    "name": "Vacarisses",
+    "lat": 41.6023603580482,
+    "lon": 1.89353771172385
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78607,
+    "name": "Vacarisses-Torreblanca",
+    "lat": 41.5869599057004,
+    "lon": 1.91692090775349
+  },
+  {
+    "line": "R4",
+    "gencat_id": 78609,
+    "name": "Viladecavalls",
+    "lat": 41.5639037395734,
+    "lon": 1.9571698337749
+  },
+  {
+    "line": "R4",
+    "gencat_id": 72204,
+    "name": "Vilafranca del Penedès",
+    "lat": 41.3447755935615,
+    "lon": 1.70355768548077
+  },
+  {
+    "line": "R7",
+    "gencat_id": 78802,
+    "name": "Barcelona-Sant Andreu Arenal",
+    "lat": 41.4309957777596,
+    "lon": 2.18310346998386
+  },
+  {
+    "line": "R7",
+    "gencat_id": 78801,
+    "name": "Barcelona-Torre del Baró",
+    "lat": 41.4613256531941,
+    "lon": 2.1807617655833
+  },
+  {
+    "line": "R7",
+    "gencat_id": 78706,
+    "name": "Cerdanyola del Vallès",
+    "lat": 41.4919912716781,
+    "lon": 2.14850057800013
+  },
+  {
+    "line": "R7",
+    "gencat_id": 72503,
+    "name": "Cerdanyola-Universitat",
+    "lat": 41.4968939792725,
+    "lon": 2.11485022789608
+  },
+  {
+    "line": "R7",
+    "gencat_id": 78800,
+    "name": "Montcada Bifurcació",
+    "lat": 41.4708621070227,
+    "lon": 2.18006161216746
+  },
+  {
+    "line": "R7",
+    "gencat_id": 78708,
+    "name": "Montcada i Reixac-Manresa",
+    "lat": 41.4841920488475,
+    "lon": 2.18529792717688
+  },
+  {
+    "line": "R7",
+    "gencat_id": 78707,
+    "name": "Montcada i Reixac-Santa Maria",
+    "lat": 41.481285279819,
+    "lon": 2.16718183538433
+  },
+  {
+    "line": "R8",
+    "gencat_id": 72210,
+    "name": "Castellbisbal",
+    "lat": 41.4731321228208,
+    "lon": 1.96778972009184
+  },
+  {
+    "line": "R8",
+    "gencat_id": 72503,
+    "name": "Cerdanyola-Universitat",
+    "lat": 41.4968939792725,
+    "lon": 2.11485022789608
+  },
+  {
+    "line": "R8",
+    "gencat_id": 79100,
+    "name": "Granollers Centre",
+    "lat": 41.5995096478962,
+    "lon": 2.29159208126183
+  },
+  {
+    "line": "R8",
+    "gencat_id": 72209,
+    "name": "Martorell",
+    "lat": 41.4792482334481,
+    "lon": 1.92692827822247
+  },
+  {
+    "line": "R8",
+    "gencat_id": 79006,
+    "name": "Mollet-Sant Fost",
+    "lat": 41.5329529425385,
+    "lon": 2.21736712534934
+  },
+  {
+    "line": "R8",
+    "gencat_id": 79007,
+    "name": "Montmeló",
+    "lat": 41.551149,
+    "lon": 2.250041
+  },
+  {
+    "line": "R8",
+    "gencat_id": 72501,
+    "name": "Rubí",
+    "lat": 41.4753382452089,
+    "lon": 2.037376492451
+  },
+  {
+    "line": "R8",
+    "gencat_id": 72502,
+    "name": "Sant Cugat del Vallès",
+    "lat": 41.4811805266478,
+    "lon": 2.07971898468127
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79009,
+    "name": "Barcelona-El Clot-Aragó",
+    "lat": 41.4104189272174,
+    "lon": 2.18920138224746
+  },
+  {
+    "line": "R11",
+    "gencat_id": 71802,
+    "name": "Barcelona-Passeig de Gràcia",
+    "lat": 41.3935212963419,
+    "lon": 2.16631624197984
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79004,
+    "name": "Barcelona-Sant Andreu Comtal",
+    "lat": 41.4356336089679,
+    "lon": 2.19371257730036
+  },
+  {
+    "line": "R11",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79302,
+    "name": "Bordils-Juià",
+    "lat": 42.0369923534203,
+    "lon": 2.91525028650732
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79203,
+    "name": "Caldes de Malavella",
+    "lat": 41.8412092561927,
+    "lon": 2.80060057807735
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79305,
+    "name": "Camallera",
+    "lat": 42.1222322077132,
+    "lon": 2.96560098760236
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79301,
+    "name": "Celrà",
+    "lat": 42.0273651094301,
+    "lon": 2.87492011813846
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79316,
+    "name": "Cerbère",
+    "lat": 42.44169,
+    "lon": 3.16325
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79314,
+    "name": "Colera",
+    "lat": 42.4068780790864,
+    "lon": 3.15443530088654
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79309,
+    "name": "Figueres",
+    "lat": 42.265072570479,
+    "lon": 2.96896668149236
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79303,
+    "name": "Flaçà",
+    "lat": 42.0475951095144,
+    "lon": 2.95728621651997
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79205,
+    "name": "Fornells de la Selva",
+    "lat": 41.935054785626,
+    "lon": 2.80957377738646
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79300,
+    "name": "Girona",
+    "lat": 41.9777243441383,
+    "lon": 2.81605547922767
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79100,
+    "name": "Granollers Centre",
+    "lat": 41.5995096478962,
+    "lon": 2.29159208126183
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79105,
+    "name": "Gualba",
+    "lat": 41.7180602762477,
+    "lon": 2.53904303823446
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79107,
+    "name": "Hostalric",
+    "lat": 41.7478870701868,
+    "lon": 2.63141010779818
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79312,
+    "name": "Llançà",
+    "lat": 42.3667239637597,
+    "lon": 3.1488152978134
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79200,
+    "name": "Maçanet-Massanes",
+    "lat": 41.7724990136366,
+    "lon": 2.67336035783649
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79315,
+    "name": "Portbou",
+    "lat": 42.4247888201809,
+    "lon": 3.15809450777194
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79106,
+    "name": "Riells i Viabrea-Breda",
+    "lat": 41.7263725991584,
+    "lon": 2.56816119028686
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79204,
+    "name": "Riudellots",
+    "lat": 41.896532156665,
+    "lon": 2.81179634867969
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79104,
+    "name": "Sant Celoni",
+    "lat": 41.6860241665012,
+    "lon": 2.49123944361082
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79304,
+    "name": "Sant Jordi Desvalls",
+    "lat": 42.0682390238144,
+    "lon": 2.9647668541428
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79306,
+    "name": "Sant Miquel de Fluvià",
+    "lat": 42.1721551557459,
+    "lon": 2.98935674331045
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79202,
+    "name": "Sils",
+    "lat": 41.8075197960537,
+    "lon": 2.74505560693576
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79311,
+    "name": "Vilajuïga",
+    "lat": 42.3251547484918,
+    "lon": 3.08625764927703
+  },
+  {
+    "line": "R11",
+    "gencat_id": 79308,
+    "name": "Vilamalla",
+    "lat": 42.2163088501734,
+    "lon": 2.97805544738783
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78505,
+    "name": "Aguilar de Segarra",
+    "lat": 41.7387072642281,
+    "lon": 1.62372531225513
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78407,
+    "name": "Anglesola",
+    "lat": 41.6463151428855,
+    "lon": 1.07900531462099
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78705,
+    "name": "Barberà del Vallès",
+    "lat": 41.5135131161479,
+    "lon": 2.11838675826996
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78806,
+    "name": "Barcelona-La Sagrera-Meridiana",
+    "lat": 41.4218764777707,
+    "lon": 2.18687911994551
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78805,
+    "name": "Barcelona-Plaça de Catalunya",
+    "lat": 41.3874900044692,
+    "lon": 2.16960499794846
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78802,
+    "name": "Barcelona-Sant Andreu Arenal",
+    "lat": 41.4309957777596,
+    "lon": 2.18310346998386
+  },
+  {
+    "line": "R12",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78801,
+    "name": "Barcelona-Torre del Baró",
+    "lat": 41.4613256531941,
+    "lon": 2.1807617655833
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78402,
+    "name": "Bell-lloc d'Urgell",
+    "lat": 41.6318088888624,
+    "lon": 0.781589597892818
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78406,
+    "name": "Bellpuig",
+    "lat": 41.6327171709591,
+    "lon": 1.0129757733692
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78503,
+    "name": "Calaf",
+    "lat": 41.7301618803181,
+    "lon": 1.51524778942922
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78605,
+    "name": "Castellbell i el Vilar-Monistrol de Mont",
+    "lat": 41.6286350723563,
+    "lon": 1.86907289140329
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78405,
+    "name": "Castellnou de Seana",
+    "lat": 41.6372887856884,
+    "lon": 0.967751297079654
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78706,
+    "name": "Cerdanyola del Vallès",
+    "lat": 41.4919912716781,
+    "lon": 2.14850057800013
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78500,
+    "name": "Cervera",
+    "lat": 41.6737745176342,
+    "lon": 1.27472699032389
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78404,
+    "name": "Golmés",
+    "lat": 41.636000001328,
+    "lon": 0.930826037274185
+  },
+  {
+    "line": "R12",
+    "gencat_id": 72305,
+    "name": "L'Hospitalet de Llobregat",
+    "lat": 41.3641637913141,
+    "lon": 2.10109308019692
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78400,
+    "name": "Lleida-Pirineus",
+    "lat": 41.6206570265921,
+    "lon": 0.633413111246984
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78600,
+    "name": "Manresa",
+    "lat": 41.7203913528877,
+    "lon": 1.82649982630901
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78403,
+    "name": "Mollerussa",
+    "lat": 41.6319590494676,
+    "lon": 0.896910440095123
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78800,
+    "name": "Montcada Bifurcació",
+    "lat": 41.4708621070227,
+    "lon": 2.18006161216746
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78708,
+    "name": "Montcada i Reixac-Manresa",
+    "lat": 41.4841920488475,
+    "lon": 2.18529792717688
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78707,
+    "name": "Montcada i Reixac-Santa Maria",
+    "lat": 41.481285279819,
+    "lon": 2.16718183538433
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78506,
+    "name": "Rajadell",
+    "lat": 41.7323200859036,
+    "lon": 1.69855167283946
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78704,
+    "name": "Sabadell Centre",
+    "lat": 41.5471098666587,
+    "lon": 2.11573586381795
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78709,
+    "name": "Sabadell Nord",
+    "lat": 41.5618368709598,
+    "lon": 2.09658369951976
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78703,
+    "name": "Sabadell Sud",
+    "lat": 41.5282641464543,
+    "lon": 2.10538342500057
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78501,
+    "name": "Sant Guim de Freixenet",
+    "lat": 41.6558219378101,
+    "lon": 1.42071649550986
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78502,
+    "name": "Sant Martí Sesgueioles",
+    "lat": 41.7013703545359,
+    "lon": 1.48622662698464
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78610,
+    "name": "Sant Miquel de Gonteres-Viladecavalls",
+    "lat": 41.5639037395734,
+    "lon": 1.9571698337749
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78604,
+    "name": "Sant Vicenç de Castellet",
+    "lat": 41.6687916066728,
+    "lon": 1.86248335307058
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78504,
+    "name": "Seguers-Sant Pere Sallavinera",
+    "lat": 41.7479531753561,
+    "lon": 1.57414493152705
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78408,
+    "name": "Tàrrega",
+    "lat": 41.6501715288971,
+    "lon": 1.13853542824154
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78700,
+    "name": "Terrassa",
+    "lat": 41.5698054594888,
+    "lon": 2.01429880494687
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78710,
+    "name": "Terrassa Est",
+    "lat": 41.5674161441055,
+    "lon": 2.0403445786003
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78606,
+    "name": "Vacarisses",
+    "lat": 41.6023603580482,
+    "lon": 1.89353771172385
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78607,
+    "name": "Vacarisses-Torreblanca",
+    "lat": 41.5869599057004,
+    "lon": 1.91692090775349
+  },
+  {
+    "line": "R12",
+    "gencat_id": 78609,
+    "name": "Viladecavalls",
+    "lat": 41.5639037395734,
+    "lon": 1.9571698337749
+  },
+  {
+    "line": "R13",
+    "gencat_id": 79400,
+    "name": "Barcelona-Estació de França",
+    "lat": 41.3840101323238,
+    "lon": 2.18634117242266
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71802,
+    "name": "Barcelona-Passeig de Gràcia",
+    "lat": 41.3935212963419,
+    "lon": 2.16631624197984
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71601,
+    "name": "Calafell",
+    "lat": 41.1894878480103,
+    "lon": 1.57507609628638
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71705,
+    "name": "Castelldefels",
+    "lat": 41.2787348008295,
+    "lon": 1.97929772549262
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71604,
+    "name": "Cubelles",
+    "lat": 41.2040964615357,
+    "lon": 1.67572028336313
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71603,
+    "name": "Cunit",
+    "lat": 41.1948229103806,
+    "lon": 1.63186678561585
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71706,
+    "name": "Gavà",
+    "lat": 41.3030397336087,
+    "lon": 2.0102813744918
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73002,
+    "name": "Juneda",
+    "lat": 41.5438778328023,
+    "lon": 0.825380624786703
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73007,
+    "name": "L'Espluga de Francolí",
+    "lat": 41.4005082439456,
+    "lon": 1.10326411545646
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73004,
+    "name": "La Floresta",
+    "lat": 41.5041222550842,
+    "lon": 0.924341661167575
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73100,
+    "name": "La Plana-Picamoixons",
+    "lat": 41.3065784652629,
+    "lon": 1.19429174241361
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73010,
+    "name": "La Riba",
+    "lat": 41.3183990031412,
+    "lon": 1.18145508739028
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73003,
+    "name": "Les Borges Blanques",
+    "lat": 41.5215439027801,
+    "lon": 0.878042350524173
+  },
+  {
+    "line": "R13",
+    "gencat_id": 78400,
+    "name": "Lleida-Pirineus",
+    "lat": 41.6206570265921,
+    "lon": 0.633413111246984
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73008,
+    "name": "Montblanc",
+    "lat": 41.3764893162264,
+    "lon": 1.16592136279386
+  },
+  {
+    "line": "R13",
+    "gencat_id": 76003,
+    "name": "Nulles-Bràfim",
+    "lat": 41.2502720783652,
+    "lon": 1.2974370315368
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73001,
+    "name": "Puigverd de Lleida-Artesa de Lleida",
+    "lat": 41.5538492419758,
+    "lon": 0.7334543202705
+  },
+  {
+    "line": "R13",
+    "gencat_id": 72100,
+    "name": "Roda de Barà",
+    "lat": 41.1838575400317,
+    "lon": 1.44015682640927
+  },
+  {
+    "line": "R13",
+    "gencat_id": 72101,
+    "name": "Roda de Mar",
+    "lat": 41.1864030626648,
+    "lon": 1.4552170390984
+  },
+  {
+    "line": "R13",
+    "gencat_id": 76001,
+    "name": "Salomó",
+    "lat": 41.2234633026746,
+    "lon": 1.37649260617596
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71600,
+    "name": "Sant Vicenç de Calders",
+    "lat": 41.1861015010197,
+    "lon": 1.52612005997979
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71602,
+    "name": "Segur de Calafell",
+    "lat": 41.1924316246447,
+    "lon": 1.60639616252028
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71701,
+    "name": "Sitges",
+    "lat": 41.2393559475563,
+    "lon": 1.80888494564787
+  },
+  {
+    "line": "R13",
+    "gencat_id": 76004,
+    "name": "Valls",
+    "lat": 41.2896831055471,
+    "lon": 1.25902021185889
+  },
+  {
+    "line": "R13",
+    "gencat_id": 76002,
+    "name": "Vilabella",
+    "lat": 41.2394768723204,
+    "lon": 1.31743461353164
+  },
+  {
+    "line": "R13",
+    "gencat_id": 71700,
+    "name": "Vilanova i la Geltrú",
+    "lat": 41.2201162907788,
+    "lon": 1.73234718648716
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73009,
+    "name": "Vilaverd",
+    "lat": 41.3376451510852,
+    "lon": 1.17638551013583
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73006,
+    "name": "Vimbodí",
+    "lat": 41.4028624703072,
+    "lon": 1.04606072913353
+  },
+  {
+    "line": "R13",
+    "gencat_id": 73005,
+    "name": "Vinaixa",
+    "lat": 41.4251654922145,
+    "lon": 0.970205672767146
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73101,
+    "name": "Alcover",
+    "lat": 41.2615338367428,
+    "lon": 1.17427741491404
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71502,
+    "name": "Altafulla-Tamarit",
+    "lat": 41.1366080197548,
+    "lon": 1.3736230177147
+  },
+  {
+    "line": "R14",
+    "gencat_id": 79400,
+    "name": "Barcelona-Estació de França",
+    "lat": 41.3840101323238,
+    "lon": 2.18634117242266
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71802,
+    "name": "Barcelona-Passeig de Gràcia",
+    "lat": 41.3935212963419,
+    "lon": 2.16631624197984
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71601,
+    "name": "Calafell",
+    "lat": 41.1894878480103,
+    "lon": 1.57507609628638
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71705,
+    "name": "Castelldefels",
+    "lat": 41.2787348008295,
+    "lon": 1.97929772549262
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71604,
+    "name": "Cubelles",
+    "lat": 41.2040964615357,
+    "lon": 1.67572028336313
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71603,
+    "name": "Cunit",
+    "lat": 41.1948229103806,
+    "lon": 1.63186678561585
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71706,
+    "name": "Gavà",
+    "lat": 41.3030397336087,
+    "lon": 2.0102813744918
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73002,
+    "name": "Juneda",
+    "lat": 41.5438778328023,
+    "lon": 0.825380624786703
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73007,
+    "name": "L'Espluga de Francolí",
+    "lat": 41.4005082439456,
+    "lon": 1.10326411545646
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73004,
+    "name": "La Floresta",
+    "lat": 41.5041222550842,
+    "lon": 0.924341661167575
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73100,
+    "name": "La Plana-Picamoixons",
+    "lat": 41.3065784652629,
+    "lon": 1.19429174241361
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73010,
+    "name": "La Riba",
+    "lat": 41.3183990031412,
+    "lon": 1.18145508739028
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73102,
+    "name": "La Selva del Camp",
+    "lat": 41.2112283881522,
+    "lon": 1.14404085311555
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73003,
+    "name": "Les Borges Blanques",
+    "lat": 41.5215439027801,
+    "lon": 0.878042350524173
+  },
+  {
+    "line": "R14",
+    "gencat_id": 78400,
+    "name": "Lleida-Pirineus",
+    "lat": 41.6206570265921,
+    "lon": 0.633413111246984
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73008,
+    "name": "Montblanc",
+    "lat": 41.3764893162264,
+    "lon": 1.16592136279386
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73001,
+    "name": "Puigverd de Lleida-Artesa de Lleida",
+    "lat": 41.5538492419758,
+    "lon": 0.7334543202705
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71400,
+    "name": "Reus",
+    "lat": 41.1605969580634,
+    "lon": 1.09981019960749
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71600,
+    "name": "Sant Vicenç de Calders",
+    "lat": 41.1861015010197,
+    "lon": 1.52612005997979
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71602,
+    "name": "Segur de Calafell",
+    "lat": 41.1924316246447,
+    "lon": 1.60639616252028
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71701,
+    "name": "Sitges",
+    "lat": 41.2393559475563,
+    "lon": 1.80888494564787
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71500,
+    "name": "Tarragona",
+    "lat": 41.111341772998,
+    "lon": 1.2534864317056
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71503,
+    "name": "Torredembarra",
+    "lat": 41.1427279241491,
+    "lon": 1.40563993004333
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71700,
+    "name": "Vilanova i la Geltrú",
+    "lat": 41.2201162907788,
+    "lon": 1.73234718648716
+  },
+  {
+    "line": "R14",
+    "gencat_id": 71401,
+    "name": "Vila-seca",
+    "lat": 41.1128217936098,
+    "lon": 1.15086827437461
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73009,
+    "name": "Vilaverd",
+    "lat": 41.3376451510852,
+    "lon": 1.17638551013583
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73006,
+    "name": "Vimbodí",
+    "lat": 41.4028624703072,
+    "lon": 1.04606072913353
+  },
+  {
+    "line": "R14",
+    "gencat_id": 73005,
+    "name": "Vinaixa",
+    "lat": 41.4251654922145,
+    "lon": 0.970205672767146
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71502,
+    "name": "Altafulla-Tamarit",
+    "lat": 41.1366080197548,
+    "lon": 1.3736230177147
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71211,
+    "name": "Ascó",
+    "lat": 41.1824114886272,
+    "lon": 0.569260862045662
+  },
+  {
+    "line": "R15",
+    "gencat_id": 79400,
+    "name": "Barcelona-Estació de França",
+    "lat": 41.3840101323238,
+    "lon": 2.18634117242266
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71802,
+    "name": "Barcelona-Passeig de Gràcia",
+    "lat": 41.3935212963419,
+    "lon": 2.16631624197984
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71708,
+    "name": "Bellvitge",
+    "lat": 41.3538317321834,
+    "lon": 2.11537383047956
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71302,
+    "name": "Capçanes",
+    "lat": 41.102134105327,
+    "lon": 0.780381395380724
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71305,
+    "name": "Duesaigües-L'Argentera",
+    "lat": 41.1437105062059,
+    "lon": 0.920784840964259
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71707,
+    "name": "El Prat de Llobregat",
+    "lat": 41.3312044968392,
+    "lon": 2.09102621935777
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71301,
+    "name": "Els Guiamets",
+    "lat": 41.0960902388075,
+    "lon": 0.747847137844177
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71210,
+    "name": "Flix",
+    "lat": 41.2295871820237,
+    "lon": 0.540147539738944
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71307,
+    "name": "Les Borges del Camp",
+    "lat": 41.166295846053,
+    "lon": 1.02227442035645
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71303,
+    "name": "Marçà-Falset",
+    "lat": 41.13111098137,
+    "lon": 0.81043095116966
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71300,
+    "name": "Móra la Nova",
+    "lat": 41.1066384372949,
+    "lon": 0.653494452847862
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71304,
+    "name": "Pradell",
+    "lat": 41.1331553453695,
+    "lon": 0.858626639758919
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71400,
+    "name": "Reus",
+    "lat": 41.1605969580634,
+    "lon": 1.09981019960749
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71209,
+    "name": "Riba-roja d'Ebre",
+    "lat": 41.2486583699538,
+    "lon": 0.480955059648806
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71306,
+    "name": "Riudecanyes-Botarell",
+    "lat": 41.1402184411059,
+    "lon": 0.975701111905453
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71600,
+    "name": "Sant Vicenç de Calders",
+    "lat": 41.1861015010197,
+    "lon": 1.52612005997979
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71500,
+    "name": "Tarragona",
+    "lat": 41.111341772998,
+    "lon": 1.2534864317056
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71503,
+    "name": "Torredembarra",
+    "lat": 41.1427279241491,
+    "lon": 1.40563993004333
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71709,
+    "name": "Viladecans",
+    "lat": 41.309325489716,
+    "lon": 2.02745481244271
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71700,
+    "name": "Vilanova i la Geltrú",
+    "lat": 41.2201162907788,
+    "lon": 1.73234718648716
+  },
+  {
+    "line": "R15",
+    "gencat_id": 71401,
+    "name": "Vila-seca",
+    "lat": 41.1128217936098,
+    "lon": 1.15086827437461
+  },
+  {
+    "line": "R16",
+    "gencat_id": 71502,
+    "name": "Altafulla-Tamarit",
+    "lat": 41.1366080197548,
+    "lon": 1.3736230177147
+  },
+  {
+    "line": "R16",
+    "gencat_id": 79400,
+    "name": "Barcelona-Estació de França",
+    "lat": 41.3840101323238,
+    "lon": 2.18634117242266
+  },
+  {
+    "line": "R16",
+    "gencat_id": 71802,
+    "name": "Barcelona-Passeig de Gràcia",
+    "lat": 41.3935212963419,
+    "lon": 2.16631624197984
+  },
+  {
+    "line": "R16",
+    "gencat_id": 71801,
+    "name": "Barcelona-Sants",
+    "lat": 41.3790789811861,
+    "lon": 2.14028390325908
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65403,
+    "name": "Camarles-Deltebre",
+    "lat": 40.7751518042299,
+    "lon": 0.671158009592543
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65409,
+    "name": "Cambrils",
+    "lat": 41.0692624669413,
+    "lon": 1.05324647358627
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65401,
+    "name": "Camp-redó",
+    "lat": 40.7590269187727,
+    "lon": 0.556463577981504
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65402,
+    "name": "L'Aldea-Amposta",
+    "lat": 40.7537372646208,
+    "lon": 0.614209535774528
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65405,
+    "name": "L'Ametlla de Mar",
+    "lat": 40.8863485439212,
+    "lon": 0.800863850578691
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65404,
+    "name": "L'Ampolla-Perelló-Deltebre",
+    "lat": 40.8121075583674,
+    "lon": 0.708625792133952
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65407,
+    "name": "L'Hospitalet de l'Infant",
+    "lat": 40.9959991362972,
+    "lon": 0.920691759813988
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65408,
+    "name": "Mont-roig del Camp",
+    "lat": 41.0448814724457,
+    "lon": 0.990822798035191
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65411,
+    "name": "Port Aventura",
+    "lat": 41.0884114266531,
+    "lon": 1.14583526068707
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65410,
+    "name": "Salou",
+    "lat": 41.0773623085643,
+    "lon": 1.12932041596742
+  },
+  {
+    "line": "R16",
+    "gencat_id": 71600,
+    "name": "Sant Vicenç de Calders",
+    "lat": 41.1861015010197,
+    "lon": 1.52612005997979
+  },
+  {
+    "line": "R16",
+    "gencat_id": 71500,
+    "name": "Tarragona",
+    "lat": 41.111341772998,
+    "lon": 1.2534864317056
+  },
+  {
+    "line": "R16",
+    "gencat_id": 71503,
+    "name": "Torredembarra",
+    "lat": 41.1427279241491,
+    "lon": 1.40563993004333
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65400,
+    "name": "Tortosa",
+    "lat": 40.8071840875766,
+    "lon": 0.522786433876677
+  },
+  {
+    "line": "R16",
+    "gencat_id": 65314,
+    "name": "Ulldecona-Alcanar-La Sénia",
+    "lat": 40.5958608323863,
+    "lon": 0.449509090610943
+  },
+  {
+    "line": "R16",
+    "gencat_id": 71700,
+    "name": "Vilanova i la Geltrú",
+    "lat": 41.2201162907788,
+    "lon": 1.73234718648716
+  }
+]
