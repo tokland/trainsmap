@@ -75,7 +75,7 @@ class TimeTablesParser
         st = stations_info[station_name] or die("No station found: #{station_name}")
         {name: station_name, lat: st[:lat], lon: st[:lon]}
       end
-      {line: line, stations: stations, times: times}
+      {name: line, stations: stations, times: times}
     end
   end
 end 

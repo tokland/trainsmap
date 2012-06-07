@@ -1,6 +1,6 @@
 [
   {
-    "line": "R1",
+    "name": "R1",
     "stations": [
       {
         "name": "Molins de Rei",
@@ -6189,7 +6189,7 @@
     }
   },
   {
-    "line": "R2",
+    "name": "R2",
     "stations": [
       {
         "name": "Maçanet-Massanes",
